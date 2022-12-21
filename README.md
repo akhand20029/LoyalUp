@@ -1,1 +1,2 @@
 # LoyalUp
+Customer Reward Platform
